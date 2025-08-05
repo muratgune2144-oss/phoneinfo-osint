@@ -22,4 +22,4 @@ git clone https://github.com/muratgune2144-oss/phoneinfo-osint.git
 
 cd phoneinfo-osint
 
-python phoneinfo_main.py
+python main.py
